@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/modern-web-template.iml" filepath="$PROJECT_DIR$/.idea/modules/modern-web-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/modern-web-template-build.iml" filepath="$PROJECT_DIR$/.idea/modules/modern-web-template-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../progfun/progfun.iml" filepath="$PROJECT_DIR$/../progfun/progfun.iml" />
     </modules>
   </component>
 </project>

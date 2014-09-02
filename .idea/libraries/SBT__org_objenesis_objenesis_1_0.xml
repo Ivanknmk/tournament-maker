@@ -1,6 +1,8 @@
 <component name="libraryTable">
   <library name="SBT: org.objenesis:objenesis:1.0">
-    <CLASSES />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../.ivy/cache/org.objenesis/objenesis/jars/objenesis-1.0.jar!/" />
+    </CLASSES>
     <JAVADOC />
     <SOURCES />
   </library>
